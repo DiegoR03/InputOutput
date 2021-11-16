@@ -5,6 +5,9 @@ Team:
 2. Diego Ramón Schluter.
 3. Patryk Podwórny.
 
+Duur:
+- 8 weken
+
 ## Ontwerp
 School Escape is een singleplayer VR escape room. De escape room is geconnect met een arduino waarbij je lichten kan aan sturen in de kamer.
 
@@ -20,7 +23,8 @@ Onze speciale input is een VR & Arduino die de player movement detecteert & lamp
 
 ## Onderzoek
 Engine:
-- Unity (Virtual Studio Code 2019)
+- Unity 2020.2.2f1 (Virtual Studio Code 2019)
+- C#
 
 Overige software:
 - Github.
@@ -33,10 +37,3 @@ Hardware:
 
 ## Scrum
 Trello: https://trello.com/b/nNmzLZ4g/input-output
-
-Github: https://github.com/D-RaMedia/InputOutput
-
-## Portfolio
-Presentatie 1: https://docs.google.com/presentation/d/1jIwwC6Xw2Buc8SrNTVnEk-r1r680OzysrxJKFpiQNUQ/edit#slide=id.p
-
-Presentatie 2: https://docs.google.com/presentation/d/1hjlqouiOOvzJmK_YSQPKo9k9UL3DoG09ts1DUqSajc0/edit#slide=id.gc89d63d50a_0_23
